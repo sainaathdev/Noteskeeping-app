@@ -1,0 +1,20 @@
+.form-style{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.btn {
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 600;
+
+}
+.btn:hover {
+    background-color: chartreuse;
+}
+.form-label{
+    font-size: 15px;
+}
+.form-control{
+    font-size: 10px;
+}

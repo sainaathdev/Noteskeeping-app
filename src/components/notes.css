@@ -1,0 +1,13 @@
+.card-title{
+    font-size: 15px;
+}
+.card-text {
+    font-size: 13px;
+}
+.notes-button {
+    font-size: 13px;
+    font-weight: 600;
+}
+.card-body{
+    text-transform: capitalize;
+}
